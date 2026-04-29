@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AB/AB.csproj" />
+  <Project Path="AD/AD.csproj" />
+  <Project Path="API/API.csproj" />
+  <Project Path="DB/DB.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="FL/FL.csproj" />
+</Solution>
